@@ -188,7 +188,7 @@ p{
 .images-pages1::after {
     content: "";
     position: absolute;
-    left: 50%;
+    left: 47%;
     bottom: 25px;
     width: 36px;
     height: 36px;
