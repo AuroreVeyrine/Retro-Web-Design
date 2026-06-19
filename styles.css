@@ -18,7 +18,8 @@ body{
     background: linear-gradient(to bottom, transparent 0%,rgba(0, 0, 0, 0.5) 40%,black 50%,rgba(0, 0, 0, 0.5) 60%,
                 transparent 100%) center 50vw / 100% 13vw no-repeat,
     url("./images/fond1.png") center top / 100% auto no-repeat,
-    url("./images/fond2.png") center 56.28vw / 100% auto no-repeat;
+    url("./images/fond2.png") center 56.28vw / 100% auto no-repeat,
+    url(../images/fond3.png) bottom/ 100% auto no-repeat;
     background-color: black;
     font-family: 'oxanium', sans-serif;
     font-size: 0.8em;
